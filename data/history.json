@@ -18,5 +18,37 @@
         "score": 28.5
       }
     ]
+  },
+  {
+    "generatedAt": "2026-07-31T13:07:38.271889+00:00",
+    "screened": 3,
+    "requested": 3,
+    "errors": [],
+    "top": [
+      {
+        "symbol": "BAYN.XETRA",
+        "score": 47.8
+      },
+      {
+        "symbol": "BEI.XETRA",
+        "score": 41.7
+      },
+      {
+        "symbol": "AIR.XETRA",
+        "score": 34.5
+      },
+      {
+        "symbol": "ALV.XETRA",
+        "score": 34.0
+      },
+      {
+        "symbol": "BAS.XETRA",
+        "score": 30.4
+      },
+      {
+        "symbol": "ADS.XETRA",
+        "score": 28.5
+      }
+    ]
   }
 ]
