@@ -50,7 +50,7 @@ jobs:
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             BATCH_SIZE="${{ inputs.batch_size }}"
           else
-            BATCH_SIZE="15"
+            BATCH_SIZE="100"
           fi
           echo "Batch-Größe: $BATCH_SIZE"
           python scripts/screen.py --batch-size "$BATCH_SIZE"
