@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "generatedAt": "2026-07-31T12:35:59.393755+00:00",
+    "screened": 3,
+    "requested": 3,
+    "errors": [],
+    "top": [
+      {
+        "symbol": "AIR.XETRA",
+        "score": 34.5
+      },
+      {
+        "symbol": "ALV.XETRA",
+        "score": 34.0
+      },
+      {
+        "symbol": "ADS.XETRA",
+        "score": 28.5
+      }
+    ]
+  }
+]
