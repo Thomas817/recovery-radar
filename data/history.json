@@ -98,5 +98,53 @@
         "score": 49.6
       }
     ]
+  },
+  {
+    "generatedAt": "2026-08-01T10:23:39.392301+00:00",
+    "screened": 100,
+    "requested": 100,
+    "errors": [],
+    "top": [
+      {
+        "symbol": "MU.US",
+        "score": 64.1
+      },
+      {
+        "symbol": "PYPL.US",
+        "score": 57.5
+      },
+      {
+        "symbol": "CSCO.US",
+        "score": 55.9
+      },
+      {
+        "symbol": "AMD.US",
+        "score": 53.0
+      },
+      {
+        "symbol": "SAP.XETRA",
+        "score": 51.5
+      },
+      {
+        "symbol": "CVS.US",
+        "score": 51.1
+      },
+      {
+        "symbol": "HSBA.LSE",
+        "score": 49.5
+      },
+      {
+        "symbol": "TGT.US",
+        "score": 49.4
+      },
+      {
+        "symbol": "ADBE.US",
+        "score": 48.8
+      },
+      {
+        "symbol": "GM.US",
+        "score": 48.8
+      }
+    ]
   }
 ]
