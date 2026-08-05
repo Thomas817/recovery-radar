@@ -290,5 +290,98 @@
         "score": 47.2
       }
     ]
+  },
+  {
+    "generatedAt": "2026-08-05T11:48:31.545267+00:00",
+    "screened": 89,
+    "requested": 100,
+    "errors": [
+      {
+        "symbol": "UNH.US",
+        "error": "HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.19.10</center>\r\n</body>\r\n</html>\r\n"
+      },
+      {
+        "symbol": "DE.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "HD.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "LOW.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "T.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "VZ.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "CSCO.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "IBM.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "QCOM.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "TXN.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "MU.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      }
+    ],
+    "top": [
+      {
+        "symbol": "MU.US",
+        "score": 63.7
+      },
+      {
+        "symbol": "SAP.XETRA",
+        "score": 57.6
+      },
+      {
+        "symbol": "PYPL.US",
+        "score": 57.3
+      },
+      {
+        "symbol": "CSCO.US",
+        "score": 55.9
+      },
+      {
+        "symbol": "CVS.US",
+        "score": 51.1
+      },
+      {
+        "symbol": "TGT.US",
+        "score": 49.9
+      },
+      {
+        "symbol": "ADBE.US",
+        "score": 49.9
+      },
+      {
+        "symbol": "HSBA.LSE",
+        "score": 49.8
+      },
+      {
+        "symbol": "AMD.US",
+        "score": 47.9
+      },
+      {
+        "symbol": "UNH.US",
+        "score": 46.7
+      }
+    ]
   }
 ]
