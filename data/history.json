@@ -2597,5 +2597,374 @@
         "score": 47.5
       }
     ]
+  },
+  {
+    "generatedAt": "2026-08-12T08:51:11.493212+00:00",
+    "screened": 20,
+    "requested": 100,
+    "errors": [
+      {
+        "symbol": "SAP.XETRA",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "SIE.XETRA",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "VOW3.XETRA",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "ZAL.XETRA",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "ASML.AS",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "UNA.AS",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "INGA.AS",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "MC.PA",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "OR.PA",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "SAN.PA",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "TTE.PA",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "NESN.SW",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "NOVN.SW",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "ROG.SW",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "SHEL.LSE",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "BP.LSE",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "AZN.LSE",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "HSBA.LSE",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "ULVR.LSE",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "AAPL.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "MSFT.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "GOOGL.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "AMZN.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "META.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "NVDA.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "TSLA.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "AMD.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "INTC.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "CRM.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "ADBE.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "PYPL.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "NFLX.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "DIS.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "NKE.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "SBUX.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "MCD.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "KO.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "PEP.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "WMT.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "TGT.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "COST.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "PG.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "JNJ.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "PFE.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "MRK.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "ABBV.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "BMY.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "CVS.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "UNH.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "JPM.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "BAC.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "C.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "WFC.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "GS.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "MS.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "V.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "MA.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "BRK-B.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "XOM.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "CVX.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "COP.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "SLB.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "BA.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "CAT.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "GE.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "MMM.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "UPS.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "FDX.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "F.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "GM.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "DE.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "HD.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "LOW.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "T.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "VZ.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "CSCO.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "IBM.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "QCOM.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "TXN.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      },
+      {
+        "symbol": "MU.US",
+        "error": "HTTP 402: You exceeded your daily API requests limit.  Please contact support@eodhistoricaldata.com"
+      }
+    ],
+    "top": [
+      {
+        "symbol": "MU.US",
+        "score": 63.7
+      },
+      {
+        "symbol": "SAP.XETRA",
+        "score": 57.6
+      },
+      {
+        "symbol": "PYPL.US",
+        "score": 57.3
+      },
+      {
+        "symbol": "CSCO.US",
+        "score": 55.9
+      },
+      {
+        "symbol": "CVS.US",
+        "score": 51.1
+      },
+      {
+        "symbol": "IFX.XETRA",
+        "score": 50.9
+      },
+      {
+        "symbol": "TGT.US",
+        "score": 49.9
+      },
+      {
+        "symbol": "ADBE.US",
+        "score": 49.9
+      },
+      {
+        "symbol": "HSBA.LSE",
+        "score": 49.8
+      },
+      {
+        "symbol": "AMD.US",
+        "score": 47.9
+      }
+    ]
   }
 ]
