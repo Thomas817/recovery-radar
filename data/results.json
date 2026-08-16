@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T05:13:15.132439+00:00",
+  "generatedAt": "2026-08-16T05:48:23.298523+00:00",
   "universeSize": 100,
   "screenedThisRun": 20,
   "requestedThisRun": 100,
@@ -5289,13 +5289,13 @@
         "1m": 0.17,
         "3m": 26.73,
         "6m": 4.22,
-        "12m": 77.21
+        "12m": 73.21
       },
       "high52": 53.92,
       "low52": 25.78,
       "belowHigh52Pct": -11.37,
       "aboveLow52Pct": 85.38,
-      "volatilityAnnualized": 42.45,
+      "volatilityAnnualized": 42.49,
       "components": {
         "underperformance": 18.9,
         "recovery": 81.6,
@@ -5826,7 +5826,7 @@
           "close": 47.79
         }
       ],
-      "updatedAt": "2026-08-15T05:12:27.033241+00:00"
+      "updatedAt": "2026-08-16T05:47:26.958805+00:00"
     },
     {
       "symbol": "IFX.XETRA",
@@ -5839,18 +5839,18 @@
         "1m": -8.29,
         "3m": -5.31,
         "6m": 42.97,
-        "12m": 69.7
+        "12m": 69.68
       },
       "high52": 88.83,
       "low52": 30.82,
       "belowHigh52Pct": -30.51,
       "aboveLow52Pct": 100.29,
-      "volatilityAnnualized": 50.39,
+      "volatilityAnnualized": 50.49,
       "components": {
         "underperformance": 50.8,
         "recovery": 48.6,
         "recoveryFromLow": 100,
-        "risk": 75.6
+        "risk": 75.7
       },
       "score": 47.2,
       "explanation": "30.5% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung -5.3%. Ein belastbares Erholungssignal fehlt noch.",
@@ -6376,7 +6376,7 @@
           "close": 61.73
         }
       ],
-      "updatedAt": "2026-08-15T05:12:33.299274+00:00"
+      "updatedAt": "2026-08-16T05:47:34.538364+00:00"
     },
     {
       "symbol": "UNH.US",
@@ -8039,13 +8039,13 @@
         "1m": 12.71,
         "3m": 24.72,
         "6m": -4.48,
-        "12m": 5.17
+        "12m": 3.82
       },
       "high52": 52.96,
       "low52": 35.11,
       "belowHigh52Pct": -11.1,
       "aboveLow52Pct": 34.09,
-      "volatilityAnnualized": 23.52,
+      "volatilityAnnualized": 23.53,
       "components": {
         "underperformance": 18.5,
         "recovery": 98.1,
@@ -8576,7 +8576,7 @@
           "close": 47.08
         }
       ],
-      "updatedAt": "2026-08-15T05:12:31.645697+00:00"
+      "updatedAt": "2026-08-16T05:47:32.577561+00:00"
     },
     {
       "symbol": "BMY.US",
@@ -12439,13 +12439,13 @@
         "1m": 3.84,
         "3m": 6.7,
         "6m": 20.33,
-        "12m": 72.57
+        "12m": 70.8
       },
       "high52": 62.0,
       "low52": 33.72,
       "belowHigh52Pct": -5.0,
       "aboveLow52Pct": 74.67,
-      "volatilityAnnualized": 25.79,
+      "volatilityAnnualized": 25.83,
       "components": {
         "underperformance": 8.3,
         "recovery": 73.4,
@@ -12976,7 +12976,7 @@
           "close": 58.9
         }
       ],
-      "updatedAt": "2026-08-15T05:12:35.609588+00:00"
+      "updatedAt": "2026-08-16T05:47:37.206418+00:00"
     },
     {
       "symbol": "XOM.US",
@@ -15739,18 +15739,18 @@
         "1m": 10.25,
         "3m": 28.49,
         "6m": 14.02,
-        "12m": 17.4
+        "12m": 19.14
       },
       "high52": 221.25,
       "low52": 157.48,
       "belowHigh52Pct": -2.64,
       "aboveLow52Pct": 36.78,
-      "volatilityAnnualized": 29.36,
+      "volatilityAnnualized": 29.37,
       "components": {
         "underperformance": 4.4,
         "recovery": 100,
         "recoveryFromLow": 46.0,
-        "risk": 44.0
+        "risk": 44.1
       },
       "score": 40.0,
       "explanation": "2.6% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +28.5%. Erste Erholungssignale sind erkennbar.",
@@ -16276,7 +16276,7 @@
           "close": 215.4
         }
       ],
-      "updatedAt": "2026-08-15T05:12:25.298356+00:00"
+      "updatedAt": "2026-08-16T05:47:24.843976+00:00"
     },
     {
       "symbol": "COP.US",
@@ -23439,7 +23439,7 @@
         "1m": 6.32,
         "3m": 18.21,
         "6m": 26.21,
-        "12m": 22.67
+        "12m": 23.98
       },
       "high52": 443.9,
       "low52": 338.8,
@@ -23976,7 +23976,7 @@
           "close": 442.7
         }
       ],
-      "updatedAt": "2026-08-15T05:12:25.881517+00:00"
+      "updatedAt": "2026-08-16T05:47:25.522418+00:00"
     },
     {
       "symbol": "GS.US",
@@ -25639,20 +25639,20 @@
         "1m": -4.26,
         "3m": 18.08,
         "6m": 17.18,
-        "12m": 37.9
+        "12m": 40.9
       },
       "high52": 58.3,
       "low52": 36.99,
       "belowHigh52Pct": -5.21,
       "aboveLow52Pct": 49.39,
-      "volatilityAnnualized": 26.54,
+      "volatilityAnnualized": 26.5,
       "components": {
         "underperformance": 8.7,
         "recovery": 69.9,
         "recoveryFromLow": 61.7,
-        "risk": 39.8
+        "risk": 39.7
       },
-      "score": 35.2,
+      "score": 35.3,
       "explanation": "5.2% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +18.1%. Erste Erholungssignale sind erkennbar.",
       "chart": [
         {
@@ -26176,7 +26176,7 @@
           "close": 55.26
         }
       ],
-      "updatedAt": "2026-08-15T05:12:29.884655+00:00"
+      "updatedAt": "2026-08-16T05:47:30.601019+00:00"
     },
     {
       "symbol": "BEI.XETRA",
@@ -26189,13 +26189,13 @@
         "1m": -0.48,
         "3m": 11.79,
         "6m": -25.45,
-        "12m": -22.01
+        "12m": -22.7
       },
       "high52": 110.15,
       "low52": 67.08,
       "belowHigh52Pct": -28.9,
       "aboveLow52Pct": 16.76,
-      "volatilityAnnualized": 30.3,
+      "volatilityAnnualized": 30.35,
       "components": {
         "underperformance": 48.2,
         "recovery": 50.6,
@@ -26726,7 +26726,7 @@
           "close": 78.32
         }
       ],
-      "updatedAt": "2026-08-15T05:12:27.604469+00:00"
+      "updatedAt": "2026-08-16T05:47:27.648753+00:00"
     },
     {
       "symbol": "NVDA.US",
@@ -27289,20 +27289,20 @@
         "1m": 3.27,
         "3m": 18.73,
         "6m": -5.02,
-        "12m": 10.25
+        "12m": 10.18
       },
       "high52": 84.2,
       "low52": 61.28,
       "belowHigh52Pct": -9.36,
       "aboveLow52Pct": 24.54,
-      "volatilityAnnualized": 19.54,
+      "volatilityAnnualized": 19.57,
       "components": {
         "underperformance": 15.6,
         "recovery": 74.2,
         "recoveryFromLow": 30.7,
-        "risk": 29.3
+        "risk": 29.4
       },
-      "score": 34.8,
+      "score": 34.7,
       "explanation": "9.4% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +18.7%. Erste Erholungssignale sind erkennbar.",
       "chart": [
         {
@@ -27826,7 +27826,7 @@
           "close": 76.32
         }
       ],
-      "updatedAt": "2026-08-15T05:12:32.754492+00:00"
+      "updatedAt": "2026-08-16T05:47:33.904952+00:00"
     },
     {
       "symbol": "KO.US",
@@ -31139,20 +31139,20 @@
         "1m": 7.74,
         "3m": 3.58,
         "6m": -8.16,
-        "12m": -4.02
+        "12m": -4.76
       },
       "high52": 34.36,
       "low52": 23.53,
       "belowHigh52Pct": -16.56,
       "aboveLow52Pct": 21.84,
-      "volatilityAnnualized": 26.5,
+      "volatilityAnnualized": 26.54,
       "components": {
         "underperformance": 27.6,
         "recovery": 64.2,
         "recoveryFromLow": 27.3,
         "risk": 39.8
       },
-      "score": 33.6,
+      "score": 33.5,
       "explanation": "16.6% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +3.6%. Erste Erholungssignale sind erkennbar.",
       "chart": [
         {
@@ -31676,7 +31676,7 @@
           "close": 28.67
         }
       ],
-      "updatedAt": "2026-08-15T05:12:30.462071+00:00"
+      "updatedAt": "2026-08-16T05:47:31.251304+00:00"
     },
     {
       "symbol": "JPM.US",
@@ -33889,13 +33889,13 @@
         "1m": -2.71,
         "3m": 16.15,
         "6m": 8.79,
-        "12m": 24.08
+        "12m": 25.54
       },
       "high52": 148.8,
       "low52": 100.7,
       "belowHigh52Pct": -8.4,
       "aboveLow52Pct": 35.35,
-      "volatilityAnnualized": 29.31,
+      "volatilityAnnualized": 29.35,
       "components": {
         "underperformance": 14.0,
         "recovery": 66.8,
@@ -34426,7 +34426,7 @@
           "close": 136.3
         }
       ],
-      "updatedAt": "2026-08-15T05:12:34.450752+00:00"
+      "updatedAt": "2026-08-16T05:47:35.895732+00:00"
     },
     {
       "symbol": "UPS.US",
@@ -36089,18 +36089,18 @@
         "1m": 4.5,
         "3m": 12.26,
         "6m": 27.34,
-        "12m": 9.79
+        "12m": 13.47
       },
       "high52": 40.13,
       "low52": 29.01,
       "belowHigh52Pct": -0.97,
       "aboveLow52Pct": 36.99,
-      "volatilityAnnualized": 36.06,
+      "volatilityAnnualized": 35.98,
       "components": {
         "underperformance": 1.6,
         "recovery": 83.9,
         "recoveryFromLow": 46.2,
-        "risk": 54.1
+        "risk": 54.0
       },
       "score": 31.3,
       "explanation": "1.0% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +12.3%. Erste Erholungssignale sind erkennbar.",
@@ -36626,7 +36626,7 @@
           "close": 39.74
         }
       ],
-      "updatedAt": "2026-08-15T05:12:28.704634+00:00"
+      "updatedAt": "2026-08-16T05:47:29.126989+00:00"
     },
     {
       "symbol": "VOW3.XETRA",
@@ -38289,20 +38289,20 @@
         "1m": 1.89,
         "3m": 9.47,
         "6m": 2.25,
-        "12m": -2.53
+        "12m": -2.67
       },
       "high52": 575.6,
       "low52": 437.4,
       "belowHigh52Pct": -10.04,
       "aboveLow52Pct": 18.38,
-      "volatilityAnnualized": 19.88,
+      "volatilityAnnualized": 19.92,
       "components": {
         "underperformance": 16.7,
         "recovery": 64.8,
         "recoveryFromLow": 23.0,
-        "risk": 29.8
+        "risk": 29.9
       },
-      "score": 30.1,
+      "score": 30.0,
       "explanation": "10.0% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +9.5%. Erste Erholungssignale sind erkennbar.",
       "chart": [
         {
@@ -38826,7 +38826,7 @@
           "close": 517.8
         }
       ],
-      "updatedAt": "2026-08-15T05:12:35.027119+00:00"
+      "updatedAt": "2026-08-16T05:47:36.536203+00:00"
     },
     {
       "symbol": "HD.US",
@@ -41039,18 +41039,18 @@
         "1m": 0.81,
         "3m": -20.16,
         "6m": -29.33,
-        "12m": -30.3
+        "12m": -29.66
       },
       "high52": 97.92,
       "low52": 56.4,
       "belowHigh52Pct": -39.34,
       "aboveLow52Pct": 5.32,
-      "volatilityAnnualized": 27.94,
+      "volatilityAnnualized": 27.98,
       "components": {
         "underperformance": 65.6,
         "recovery": 16.1,
         "recoveryFromLow": 6.6,
-        "risk": 41.9
+        "risk": 42.0
       },
       "score": 27.2,
       "explanation": "39.3% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung -20.2%. Ein belastbares Erholungssignal fehlt noch.",
@@ -41576,7 +41576,7 @@
           "close": 59.4
         }
       ],
-      "updatedAt": "2026-08-15T05:12:28.176099+00:00"
+      "updatedAt": "2026-08-16T05:47:28.437572+00:00"
     },
     {
       "symbol": "QCOM.US",
@@ -42689,20 +42689,20 @@
         "1m": 6.7,
         "3m": -2.81,
         "6m": 4.59,
-        "12m": 15.74
+        "12m": 15.26
       },
       "high52": 55.05,
       "low52": 41.48,
       "belowHigh52Pct": -7.08,
       "aboveLow52Pct": 23.31,
-      "volatilityAnnualized": 24.75,
+      "volatilityAnnualized": 24.8,
       "components": {
         "underperformance": 11.8,
         "recovery": 61.0,
         "recoveryFromLow": 29.1,
-        "risk": 37.1
+        "risk": 37.2
       },
-      "score": 26.7,
+      "score": 26.6,
       "explanation": "7.1% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung -2.8%. Ein belastbares Erholungssignal fehlt noch.",
       "chart": [
         {
@@ -43226,7 +43226,7 @@
           "close": 51.15
         }
       ],
-      "updatedAt": "2026-08-15T05:12:26.473710+00:00"
+      "updatedAt": "2026-08-16T05:47:26.318683+00:00"
     },
     {
       "symbol": "BA.US",
@@ -43789,18 +43789,18 @@
         "1m": -0.56,
         "3m": -8.59,
         "6m": -14.52,
-        "12m": -7.95
+        "12m": -6.71
       },
       "high52": 62.34,
       "low52": 42.625,
       "belowHigh52Pct": -26.17,
       "aboveLow52Pct": 7.98,
-      "volatilityAnnualized": 24.9,
+      "volatilityAnnualized": 24.91,
       "components": {
         "underperformance": 43.6,
         "recovery": 33.0,
         "recoveryFromLow": 10.0,
-        "risk": 37.3
+        "risk": 37.4
       },
       "score": 25.7,
       "explanation": "26.2% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung -8.6%. Ein belastbares Erholungssignal fehlt noch.",
@@ -44326,7 +44326,7 @@
           "close": 46.025
         }
       ],
-      "updatedAt": "2026-08-15T05:12:33.894605+00:00"
+      "updatedAt": "2026-08-16T05:47:35.234710+00:00"
     },
     {
       "symbol": "ROG.SW",
@@ -47095,12 +47095,12 @@
       "low52": 157.45,
       "belowHigh52Pct": -33.11,
       "aboveLow52Pct": 2.73,
-      "volatilityAnnualized": 36.43,
+      "volatilityAnnualized": 36.5,
       "components": {
         "underperformance": 55.2,
         "recovery": 26.6,
         "recoveryFromLow": 3.4,
-        "risk": 54.6
+        "risk": 54.8
       },
       "score": 23.7,
       "explanation": "33.1% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung -4.4%. Ein belastbares Erholungssignal fehlt noch.",
@@ -47626,7 +47626,7 @@
           "close": 161.75
         }
       ],
-      "updatedAt": "2026-08-15T05:12:32.220350+00:00"
+      "updatedAt": "2026-08-16T05:47:33.252971+00:00"
     },
     {
       "symbol": "OR.PA",
@@ -48189,18 +48189,18 @@
         "1m": -13.86,
         "3m": 8.13,
         "6m": 3.59,
-        "12m": -3.43
+        "12m": -3.83
       },
       "high52": 196.4,
       "low52": 129.95,
       "belowHigh52Pct": -19.78,
       "aboveLow52Pct": 21.24,
-      "volatilityAnnualized": 33.69,
+      "volatilityAnnualized": 33.76,
       "components": {
         "underperformance": 33.0,
         "recovery": 35.6,
         "recoveryFromLow": 26.5,
-        "risk": 50.5
+        "risk": 50.6
       },
       "score": 23.4,
       "explanation": "19.8% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +8.1%. Erste Erholungssignale sind erkennbar.",
@@ -48726,7 +48726,7 @@
           "close": 157.55
         }
       ],
-      "updatedAt": "2026-08-15T05:12:24.728661+00:00"
+      "updatedAt": "2026-08-16T05:47:24.148328+00:00"
     },
     {
       "symbol": "PG.US",
@@ -49289,18 +49289,18 @@
         "1m": -4.28,
         "3m": 2.18,
         "6m": -1.7,
-        "12m": 27.44
+        "12m": 28.88
       },
       "high52": 77.5,
       "low52": 53.1,
       "belowHigh52Pct": -10.48,
       "aboveLow52Pct": 30.66,
-      "volatilityAnnualized": 31.75,
+      "volatilityAnnualized": 31.79,
       "components": {
         "underperformance": 17.5,
         "recovery": 43.9,
         "recoveryFromLow": 38.3,
-        "risk": 47.6
+        "risk": 47.7
       },
       "score": 23.0,
       "explanation": "10.5% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +2.2%. Erste Erholungssignale sind erkennbar.",
@@ -49826,7 +49826,7 @@
           "close": 69.38
         }
       ],
-      "updatedAt": "2026-08-15T05:12:29.293330+00:00"
+      "updatedAt": "2026-08-16T05:47:29.902152+00:00"
     },
     {
       "symbol": "LOW.US",
@@ -52589,13 +52589,13 @@
         "1m": -9.77,
         "3m": -2.32,
         "6m": -3.18,
-        "12m": 13.9
+        "12m": 14.04
       },
       "high52": 20.39,
       "low52": 14.595,
       "belowHigh52Pct": -14.42,
       "aboveLow52Pct": 19.56,
-      "volatilityAnnualized": 22.18,
+      "volatilityAnnualized": 22.23,
       "components": {
         "underperformance": 24.0,
         "recovery": 28.4,
@@ -53126,7 +53126,7 @@
           "close": 17.45
         }
       ],
-      "updatedAt": "2026-08-15T05:12:31.055832+00:00"
+      "updatedAt": "2026-08-16T05:47:31.938352+00:00"
     },
     {
       "symbol": "PEP.US",
