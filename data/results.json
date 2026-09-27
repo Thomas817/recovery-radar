@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T09:24:26.240967+00:00",
+  "generatedAt": "2026-09-27T10:03:34.750706+00:00",
   "universeSize": 100,
   "screenedThisRun": 20,
   "requestedThisRun": 100,
@@ -3089,18 +3089,18 @@
         "1m": 2.75,
         "3m": -27.57,
         "6m": 51.51,
-        "12m": 74.95
+        "12m": 72.96
       },
       "high52": 88.83,
       "low52": 31.27,
       "belowHigh52Pct": -36.16,
       "aboveLow52Pct": 81.36,
-      "volatilityAnnualized": 52.5,
+      "volatilityAnnualized": 52.6,
       "components": {
         "underperformance": 60.3,
         "recovery": 47.8,
         "recoveryFromLow": 100,
-        "risk": 78.8
+        "risk": 78.9
       },
       "score": 50.3,
       "explanation": "36.2% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung -27.6%. Ein belastbares Erholungssignal fehlt noch.",
@@ -3626,7 +3626,7 @@
           "close": 56.71
         }
       ],
-      "updatedAt": "2026-09-26T09:23:43.617194+00:00"
+      "updatedAt": "2026-09-27T10:02:58.481377+00:00"
     },
     {
       "symbol": "TGT.US",
@@ -11889,18 +11889,18 @@
         "1m": 1.85,
         "3m": 6.43,
         "6m": 31.11,
-        "12m": 84.09
+        "12m": 81.0
       },
       "high52": 53.92,
       "low52": 25.78,
       "belowHigh52Pct": -7.23,
       "aboveLow52Pct": 94.03,
-      "volatilityAnnualized": 42.12,
+      "volatilityAnnualized": 42.18,
       "components": {
         "underperformance": 12.1,
         "recovery": 74.4,
         "recoveryFromLow": 100,
-        "risk": 63.2
+        "risk": 63.3
       },
       "score": 42.5,
       "explanation": "7.2% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +6.4%. Erste Erholungssignale sind erkennbar.",
@@ -12426,7 +12426,7 @@
           "close": 50.02
         }
       ],
-      "updatedAt": "2026-09-26T09:23:37.110341+00:00"
+      "updatedAt": "2026-09-27T10:02:53.309038+00:00"
     },
     {
       "symbol": "F.US",
@@ -20129,556 +20129,6 @@
       "updatedAt": "2026-08-05T11:47:51.103642+00:00"
     },
     {
-      "symbol": "RWE.XETRA",
-      "name": "RWE",
-      "country": "Deutschland",
-      "sector": "Versorger",
-      "price": 59.4,
-      "asOf": "2026-09-25",
-      "performance": {
-        "1m": 3.3,
-        "3m": 9.88,
-        "6m": 10.9,
-        "12m": 59.9
-      },
-      "high52": 62.0,
-      "low52": 37.3,
-      "belowHigh52Pct": -4.19,
-      "aboveLow52Pct": 59.25,
-      "volatilityAnnualized": 26.28,
-      "components": {
-        "underperformance": 7.0,
-        "recovery": 71.7,
-        "recoveryFromLow": 74.1,
-        "risk": 39.4
-      },
-      "score": 38.0,
-      "explanation": "4.2% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +9.9%. Erste Erholungssignale sind erkennbar.",
-      "chart": [
-        {
-          "date": "2026-03-25",
-          "close": 55.7974
-        },
-        {
-          "date": "2026-03-26",
-          "close": 54.8763
-        },
-        {
-          "date": "2026-03-27",
-          "close": 53.5631
-        },
-        {
-          "date": "2026-03-30",
-          "close": 55.327
-        },
-        {
-          "date": "2026-03-31",
-          "close": 56.5225
-        },
-        {
-          "date": "2026-04-01",
-          "close": 57.5417
-        },
-        {
-          "date": "2026-04-02",
-          "close": 57.8161
-        },
-        {
-          "date": "2026-04-07",
-          "close": 57.5025
-        },
-        {
-          "date": "2026-04-08",
-          "close": 57.2085
-        },
-        {
-          "date": "2026-04-09",
-          "close": 57.7377
-        },
-        {
-          "date": "2026-04-10",
-          "close": 57.8553
-        },
-        {
-          "date": "2026-04-13",
-          "close": 57.3849
-        },
-        {
-          "date": "2026-04-14",
-          "close": 57.6985
-        },
-        {
-          "date": "2026-04-15",
-          "close": 57.8944
-        },
-        {
-          "date": "2026-04-16",
-          "close": 56.9341
-        },
-        {
-          "date": "2026-04-17",
-          "close": 54.7783
-        },
-        {
-          "date": "2026-04-20",
-          "close": 56.209
-        },
-        {
-          "date": "2026-04-21",
-          "close": 57.0909
-        },
-        {
-          "date": "2026-04-22",
-          "close": 58.9528
-        },
-        {
-          "date": "2026-04-23",
-          "close": 59.3839
-        },
-        {
-          "date": "2026-04-24",
-          "close": 58.7372
-        },
-        {
-          "date": "2026-04-27",
-          "close": 59.5211
-        },
-        {
-          "date": "2026-04-28",
-          "close": 60.3051
-        },
-        {
-          "date": "2026-04-29",
-          "close": 59.4231
-        },
-        {
-          "date": "2026-04-30",
-          "close": 60.7363
-        },
-        {
-          "date": "2026-05-04",
-          "close": 59.8
-        },
-        {
-          "date": "2026-05-05",
-          "close": 60.26
-        },
-        {
-          "date": "2026-05-06",
-          "close": 59.42
-        },
-        {
-          "date": "2026-05-07",
-          "close": 58.46
-        },
-        {
-          "date": "2026-05-08",
-          "close": 58.74
-        },
-        {
-          "date": "2026-05-11",
-          "close": 59.56
-        },
-        {
-          "date": "2026-05-12",
-          "close": 58.22
-        },
-        {
-          "date": "2026-05-13",
-          "close": 56.96
-        },
-        {
-          "date": "2026-05-14",
-          "close": 56.5
-        },
-        {
-          "date": "2026-05-15",
-          "close": 55.2
-        },
-        {
-          "date": "2026-05-18",
-          "close": 56.44
-        },
-        {
-          "date": "2026-05-19",
-          "close": 56.38
-        },
-        {
-          "date": "2026-05-20",
-          "close": 56.62
-        },
-        {
-          "date": "2026-05-21",
-          "close": 56.52
-        },
-        {
-          "date": "2026-05-22",
-          "close": 56.64
-        },
-        {
-          "date": "2026-05-25",
-          "close": 57.34
-        },
-        {
-          "date": "2026-05-26",
-          "close": 57.02
-        },
-        {
-          "date": "2026-05-27",
-          "close": 55.18
-        },
-        {
-          "date": "2026-05-28",
-          "close": 54.48
-        },
-        {
-          "date": "2026-05-29",
-          "close": 54.56
-        },
-        {
-          "date": "2026-06-01",
-          "close": 55.24
-        },
-        {
-          "date": "2026-06-02",
-          "close": 55.12
-        },
-        {
-          "date": "2026-06-03",
-          "close": 57.14
-        },
-        {
-          "date": "2026-06-04",
-          "close": 55.8
-        },
-        {
-          "date": "2026-06-05",
-          "close": 56.0
-        },
-        {
-          "date": "2026-06-08",
-          "close": 56.1
-        },
-        {
-          "date": "2026-06-09",
-          "close": 56.04
-        },
-        {
-          "date": "2026-06-10",
-          "close": 55.6
-        },
-        {
-          "date": "2026-06-11",
-          "close": 57.5
-        },
-        {
-          "date": "2026-06-12",
-          "close": 57.46
-        },
-        {
-          "date": "2026-06-15",
-          "close": 56.18
-        },
-        {
-          "date": "2026-06-16",
-          "close": 54.96
-        },
-        {
-          "date": "2026-06-17",
-          "close": 54.84
-        },
-        {
-          "date": "2026-06-18",
-          "close": 54.58
-        },
-        {
-          "date": "2026-06-19",
-          "close": 55.1
-        },
-        {
-          "date": "2026-06-22",
-          "close": 55.6
-        },
-        {
-          "date": "2026-06-23",
-          "close": 55.64
-        },
-        {
-          "date": "2026-06-24",
-          "close": 54.52
-        },
-        {
-          "date": "2026-06-25",
-          "close": 55.48
-        },
-        {
-          "date": "2026-06-26",
-          "close": 54.06
-        },
-        {
-          "date": "2026-06-29",
-          "close": 56.0
-        },
-        {
-          "date": "2026-06-30",
-          "close": 56.62
-        },
-        {
-          "date": "2026-07-01",
-          "close": 55.94
-        },
-        {
-          "date": "2026-07-02",
-          "close": 56.86
-        },
-        {
-          "date": "2026-07-03",
-          "close": 57.82
-        },
-        {
-          "date": "2026-07-06",
-          "close": 57.48
-        },
-        {
-          "date": "2026-07-07",
-          "close": 56.58
-        },
-        {
-          "date": "2026-07-08",
-          "close": 56.12
-        },
-        {
-          "date": "2026-07-09",
-          "close": 56.52
-        },
-        {
-          "date": "2026-07-10",
-          "close": 56.06
-        },
-        {
-          "date": "2026-07-13",
-          "close": 56.4
-        },
-        {
-          "date": "2026-07-14",
-          "close": 57.44
-        },
-        {
-          "date": "2026-07-15",
-          "close": 56.72
-        },
-        {
-          "date": "2026-07-16",
-          "close": 55.6
-        },
-        {
-          "date": "2026-07-17",
-          "close": 56.0
-        },
-        {
-          "date": "2026-07-20",
-          "close": 58.02
-        },
-        {
-          "date": "2026-07-21",
-          "close": 58.2
-        },
-        {
-          "date": "2026-07-22",
-          "close": 58.98
-        },
-        {
-          "date": "2026-07-23",
-          "close": 58.92
-        },
-        {
-          "date": "2026-07-24",
-          "close": 58.8
-        },
-        {
-          "date": "2026-07-27",
-          "close": 57.3
-        },
-        {
-          "date": "2026-07-28",
-          "close": 55.62
-        },
-        {
-          "date": "2026-07-29",
-          "close": 55.68
-        },
-        {
-          "date": "2026-07-30",
-          "close": 56.26
-        },
-        {
-          "date": "2026-07-31",
-          "close": 57.18
-        },
-        {
-          "date": "2026-08-03",
-          "close": 57.04
-        },
-        {
-          "date": "2026-08-04",
-          "close": 56.6
-        },
-        {
-          "date": "2026-08-05",
-          "close": 55.28
-        },
-        {
-          "date": "2026-08-06",
-          "close": 56.48
-        },
-        {
-          "date": "2026-08-07",
-          "close": 56.22
-        },
-        {
-          "date": "2026-08-10",
-          "close": 56.5
-        },
-        {
-          "date": "2026-08-11",
-          "close": 57.52
-        },
-        {
-          "date": "2026-08-12",
-          "close": 57.62
-        },
-        {
-          "date": "2026-08-13",
-          "close": 59.14
-        },
-        {
-          "date": "2026-08-14",
-          "close": 58.9
-        },
-        {
-          "date": "2026-08-17",
-          "close": 59.08
-        },
-        {
-          "date": "2026-08-18",
-          "close": 58.1
-        },
-        {
-          "date": "2026-08-19",
-          "close": 57.1
-        },
-        {
-          "date": "2026-08-20",
-          "close": 57.34
-        },
-        {
-          "date": "2026-08-21",
-          "close": 57.32
-        },
-        {
-          "date": "2026-08-24",
-          "close": 57.22
-        },
-        {
-          "date": "2026-08-25",
-          "close": 58.14
-        },
-        {
-          "date": "2026-08-26",
-          "close": 57.5
-        },
-        {
-          "date": "2026-08-27",
-          "close": 57.76
-        },
-        {
-          "date": "2026-08-28",
-          "close": 59.1
-        },
-        {
-          "date": "2026-08-31",
-          "close": 58.64
-        },
-        {
-          "date": "2026-09-01",
-          "close": 58.58
-        },
-        {
-          "date": "2026-09-02",
-          "close": 58.1
-        },
-        {
-          "date": "2026-09-03",
-          "close": 57.98
-        },
-        {
-          "date": "2026-09-04",
-          "close": 58.4
-        },
-        {
-          "date": "2026-09-07",
-          "close": 59.56
-        },
-        {
-          "date": "2026-09-08",
-          "close": 59.26
-        },
-        {
-          "date": "2026-09-09",
-          "close": 60.26
-        },
-        {
-          "date": "2026-09-10",
-          "close": 60.18
-        },
-        {
-          "date": "2026-09-11",
-          "close": 59.84
-        },
-        {
-          "date": "2026-09-14",
-          "close": 57.4
-        },
-        {
-          "date": "2026-09-15",
-          "close": 58.28
-        },
-        {
-          "date": "2026-09-16",
-          "close": 59.92
-        },
-        {
-          "date": "2026-09-17",
-          "close": 60.62
-        },
-        {
-          "date": "2026-09-18",
-          "close": 60.44
-        },
-        {
-          "date": "2026-09-21",
-          "close": 59.88
-        },
-        {
-          "date": "2026-09-22",
-          "close": 60.38
-        },
-        {
-          "date": "2026-09-23",
-          "close": 60.08
-        },
-        {
-          "date": "2026-09-24",
-          "close": 59.16
-        },
-        {
-          "date": "2026-09-25",
-          "close": 59.4
-        }
-      ],
-      "updatedAt": "2026-09-26T09:23:45.745305+00:00"
-    },
-    {
       "symbol": "CVX.US",
       "name": "Chevron",
       "country": "USA",
@@ -21227,6 +20677,556 @@
         }
       ],
       "updatedAt": "2026-08-05T11:48:19.027221+00:00"
+    },
+    {
+      "symbol": "RWE.XETRA",
+      "name": "RWE",
+      "country": "Deutschland",
+      "sector": "Versorger",
+      "price": 59.4,
+      "asOf": "2026-09-25",
+      "performance": {
+        "1m": 3.3,
+        "3m": 9.88,
+        "6m": 10.9,
+        "12m": 60.45
+      },
+      "high52": 62.0,
+      "low52": 37.41,
+      "belowHigh52Pct": -4.19,
+      "aboveLow52Pct": 58.78,
+      "volatilityAnnualized": 26.33,
+      "components": {
+        "underperformance": 7.0,
+        "recovery": 71.7,
+        "recoveryFromLow": 73.5,
+        "risk": 39.5
+      },
+      "score": 37.8,
+      "explanation": "4.2% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +9.9%. Erste Erholungssignale sind erkennbar.",
+      "chart": [
+        {
+          "date": "2026-03-25",
+          "close": 55.7974
+        },
+        {
+          "date": "2026-03-26",
+          "close": 54.8763
+        },
+        {
+          "date": "2026-03-27",
+          "close": 53.5631
+        },
+        {
+          "date": "2026-03-30",
+          "close": 55.327
+        },
+        {
+          "date": "2026-03-31",
+          "close": 56.5225
+        },
+        {
+          "date": "2026-04-01",
+          "close": 57.5417
+        },
+        {
+          "date": "2026-04-02",
+          "close": 57.8161
+        },
+        {
+          "date": "2026-04-07",
+          "close": 57.5025
+        },
+        {
+          "date": "2026-04-08",
+          "close": 57.2085
+        },
+        {
+          "date": "2026-04-09",
+          "close": 57.7377
+        },
+        {
+          "date": "2026-04-10",
+          "close": 57.8553
+        },
+        {
+          "date": "2026-04-13",
+          "close": 57.3849
+        },
+        {
+          "date": "2026-04-14",
+          "close": 57.6985
+        },
+        {
+          "date": "2026-04-15",
+          "close": 57.8944
+        },
+        {
+          "date": "2026-04-16",
+          "close": 56.9341
+        },
+        {
+          "date": "2026-04-17",
+          "close": 54.7783
+        },
+        {
+          "date": "2026-04-20",
+          "close": 56.209
+        },
+        {
+          "date": "2026-04-21",
+          "close": 57.0909
+        },
+        {
+          "date": "2026-04-22",
+          "close": 58.9528
+        },
+        {
+          "date": "2026-04-23",
+          "close": 59.3839
+        },
+        {
+          "date": "2026-04-24",
+          "close": 58.7372
+        },
+        {
+          "date": "2026-04-27",
+          "close": 59.5211
+        },
+        {
+          "date": "2026-04-28",
+          "close": 60.3051
+        },
+        {
+          "date": "2026-04-29",
+          "close": 59.4231
+        },
+        {
+          "date": "2026-04-30",
+          "close": 60.7363
+        },
+        {
+          "date": "2026-05-04",
+          "close": 59.8
+        },
+        {
+          "date": "2026-05-05",
+          "close": 60.26
+        },
+        {
+          "date": "2026-05-06",
+          "close": 59.42
+        },
+        {
+          "date": "2026-05-07",
+          "close": 58.46
+        },
+        {
+          "date": "2026-05-08",
+          "close": 58.74
+        },
+        {
+          "date": "2026-05-11",
+          "close": 59.56
+        },
+        {
+          "date": "2026-05-12",
+          "close": 58.22
+        },
+        {
+          "date": "2026-05-13",
+          "close": 56.96
+        },
+        {
+          "date": "2026-05-14",
+          "close": 56.5
+        },
+        {
+          "date": "2026-05-15",
+          "close": 55.2
+        },
+        {
+          "date": "2026-05-18",
+          "close": 56.44
+        },
+        {
+          "date": "2026-05-19",
+          "close": 56.38
+        },
+        {
+          "date": "2026-05-20",
+          "close": 56.62
+        },
+        {
+          "date": "2026-05-21",
+          "close": 56.52
+        },
+        {
+          "date": "2026-05-22",
+          "close": 56.64
+        },
+        {
+          "date": "2026-05-25",
+          "close": 57.34
+        },
+        {
+          "date": "2026-05-26",
+          "close": 57.02
+        },
+        {
+          "date": "2026-05-27",
+          "close": 55.18
+        },
+        {
+          "date": "2026-05-28",
+          "close": 54.48
+        },
+        {
+          "date": "2026-05-29",
+          "close": 54.56
+        },
+        {
+          "date": "2026-06-01",
+          "close": 55.24
+        },
+        {
+          "date": "2026-06-02",
+          "close": 55.12
+        },
+        {
+          "date": "2026-06-03",
+          "close": 57.14
+        },
+        {
+          "date": "2026-06-04",
+          "close": 55.8
+        },
+        {
+          "date": "2026-06-05",
+          "close": 56.0
+        },
+        {
+          "date": "2026-06-08",
+          "close": 56.1
+        },
+        {
+          "date": "2026-06-09",
+          "close": 56.04
+        },
+        {
+          "date": "2026-06-10",
+          "close": 55.6
+        },
+        {
+          "date": "2026-06-11",
+          "close": 57.5
+        },
+        {
+          "date": "2026-06-12",
+          "close": 57.46
+        },
+        {
+          "date": "2026-06-15",
+          "close": 56.18
+        },
+        {
+          "date": "2026-06-16",
+          "close": 54.96
+        },
+        {
+          "date": "2026-06-17",
+          "close": 54.84
+        },
+        {
+          "date": "2026-06-18",
+          "close": 54.58
+        },
+        {
+          "date": "2026-06-19",
+          "close": 55.1
+        },
+        {
+          "date": "2026-06-22",
+          "close": 55.6
+        },
+        {
+          "date": "2026-06-23",
+          "close": 55.64
+        },
+        {
+          "date": "2026-06-24",
+          "close": 54.52
+        },
+        {
+          "date": "2026-06-25",
+          "close": 55.48
+        },
+        {
+          "date": "2026-06-26",
+          "close": 54.06
+        },
+        {
+          "date": "2026-06-29",
+          "close": 56.0
+        },
+        {
+          "date": "2026-06-30",
+          "close": 56.62
+        },
+        {
+          "date": "2026-07-01",
+          "close": 55.94
+        },
+        {
+          "date": "2026-07-02",
+          "close": 56.86
+        },
+        {
+          "date": "2026-07-03",
+          "close": 57.82
+        },
+        {
+          "date": "2026-07-06",
+          "close": 57.48
+        },
+        {
+          "date": "2026-07-07",
+          "close": 56.58
+        },
+        {
+          "date": "2026-07-08",
+          "close": 56.12
+        },
+        {
+          "date": "2026-07-09",
+          "close": 56.52
+        },
+        {
+          "date": "2026-07-10",
+          "close": 56.06
+        },
+        {
+          "date": "2026-07-13",
+          "close": 56.4
+        },
+        {
+          "date": "2026-07-14",
+          "close": 57.44
+        },
+        {
+          "date": "2026-07-15",
+          "close": 56.72
+        },
+        {
+          "date": "2026-07-16",
+          "close": 55.6
+        },
+        {
+          "date": "2026-07-17",
+          "close": 56.0
+        },
+        {
+          "date": "2026-07-20",
+          "close": 58.02
+        },
+        {
+          "date": "2026-07-21",
+          "close": 58.2
+        },
+        {
+          "date": "2026-07-22",
+          "close": 58.98
+        },
+        {
+          "date": "2026-07-23",
+          "close": 58.92
+        },
+        {
+          "date": "2026-07-24",
+          "close": 58.8
+        },
+        {
+          "date": "2026-07-27",
+          "close": 57.3
+        },
+        {
+          "date": "2026-07-28",
+          "close": 55.62
+        },
+        {
+          "date": "2026-07-29",
+          "close": 55.68
+        },
+        {
+          "date": "2026-07-30",
+          "close": 56.26
+        },
+        {
+          "date": "2026-07-31",
+          "close": 57.18
+        },
+        {
+          "date": "2026-08-03",
+          "close": 57.04
+        },
+        {
+          "date": "2026-08-04",
+          "close": 56.6
+        },
+        {
+          "date": "2026-08-05",
+          "close": 55.28
+        },
+        {
+          "date": "2026-08-06",
+          "close": 56.48
+        },
+        {
+          "date": "2026-08-07",
+          "close": 56.22
+        },
+        {
+          "date": "2026-08-10",
+          "close": 56.5
+        },
+        {
+          "date": "2026-08-11",
+          "close": 57.52
+        },
+        {
+          "date": "2026-08-12",
+          "close": 57.62
+        },
+        {
+          "date": "2026-08-13",
+          "close": 59.14
+        },
+        {
+          "date": "2026-08-14",
+          "close": 58.9
+        },
+        {
+          "date": "2026-08-17",
+          "close": 59.08
+        },
+        {
+          "date": "2026-08-18",
+          "close": 58.1
+        },
+        {
+          "date": "2026-08-19",
+          "close": 57.1
+        },
+        {
+          "date": "2026-08-20",
+          "close": 57.34
+        },
+        {
+          "date": "2026-08-21",
+          "close": 57.32
+        },
+        {
+          "date": "2026-08-24",
+          "close": 57.22
+        },
+        {
+          "date": "2026-08-25",
+          "close": 58.14
+        },
+        {
+          "date": "2026-08-26",
+          "close": 57.5
+        },
+        {
+          "date": "2026-08-27",
+          "close": 57.76
+        },
+        {
+          "date": "2026-08-28",
+          "close": 59.1
+        },
+        {
+          "date": "2026-08-31",
+          "close": 58.64
+        },
+        {
+          "date": "2026-09-01",
+          "close": 58.58
+        },
+        {
+          "date": "2026-09-02",
+          "close": 58.1
+        },
+        {
+          "date": "2026-09-03",
+          "close": 57.98
+        },
+        {
+          "date": "2026-09-04",
+          "close": 58.4
+        },
+        {
+          "date": "2026-09-07",
+          "close": 59.56
+        },
+        {
+          "date": "2026-09-08",
+          "close": 59.26
+        },
+        {
+          "date": "2026-09-09",
+          "close": 60.26
+        },
+        {
+          "date": "2026-09-10",
+          "close": 60.18
+        },
+        {
+          "date": "2026-09-11",
+          "close": 59.84
+        },
+        {
+          "date": "2026-09-14",
+          "close": 57.4
+        },
+        {
+          "date": "2026-09-15",
+          "close": 58.28
+        },
+        {
+          "date": "2026-09-16",
+          "close": 59.92
+        },
+        {
+          "date": "2026-09-17",
+          "close": 60.62
+        },
+        {
+          "date": "2026-09-18",
+          "close": 60.44
+        },
+        {
+          "date": "2026-09-21",
+          "close": 59.88
+        },
+        {
+          "date": "2026-09-22",
+          "close": 60.38
+        },
+        {
+          "date": "2026-09-23",
+          "close": 60.08
+        },
+        {
+          "date": "2026-09-24",
+          "close": 59.16
+        },
+        {
+          "date": "2026-09-25",
+          "close": 59.4
+        }
+      ],
+      "updatedAt": "2026-09-27T10:03:00.377586+00:00"
     },
     {
       "symbol": "BAC.US",
@@ -22889,18 +22889,18 @@
         "1m": 0.67,
         "3m": 9.24,
         "6m": 35.05,
-        "12m": 56.64
+        "12m": 56.89
       },
       "high52": 58.9,
       "low52": 37.63,
       "belowHigh52Pct": -2.89,
       "aboveLow52Pct": 52.01,
-      "volatilityAnnualized": 26.4,
+      "volatilityAnnualized": 26.45,
       "components": {
         "underperformance": 4.8,
         "recovery": 77.1,
         "recoveryFromLow": 65.0,
-        "risk": 39.6
+        "risk": 39.7
       },
       "score": 37.0,
       "explanation": "2.9% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +9.2%. Erste Erholungssignale sind erkennbar.",
@@ -23426,7 +23426,7 @@
           "close": 57.2
         }
       ],
-      "updatedAt": "2026-09-26T09:23:40.053434+00:00"
+      "updatedAt": "2026-09-27T10:02:55.719564+00:00"
     },
     {
       "symbol": "T.US",
@@ -23989,13 +23989,13 @@
         "1m": -0.42,
         "3m": 15.9,
         "6m": 8.5,
-        "12m": 2.34
+        "12m": 2.08
       },
       "high52": 52.96,
       "low52": 35.11,
       "belowHigh52Pct": -12.86,
       "aboveLow52Pct": 31.44,
-      "volatilityAnnualized": 23.98,
+      "volatilityAnnualized": 24.02,
       "components": {
         "underperformance": 21.4,
         "recovery": 70.6,
@@ -24526,7 +24526,7 @@
           "close": 46.15
         }
       ],
-      "updatedAt": "2026-09-26T09:23:41.913072+00:00"
+      "updatedAt": "2026-09-27T10:02:57.118102+00:00"
     },
     {
       "symbol": "CBK.XETRA",
@@ -24539,18 +24539,18 @@
         "1m": 3.08,
         "3m": 11.53,
         "6m": 42.27,
-        "12m": 32.27
+        "12m": 36.38
       },
       "high52": 43.37,
       "low52": 29.01,
       "belowHigh52Pct": -2.72,
       "aboveLow52Pct": 45.43,
-      "volatilityAnnualized": 34.12,
+      "volatilityAnnualized": 34.04,
       "components": {
         "underperformance": 4.5,
         "recovery": 87.2,
         "recoveryFromLow": 56.8,
-        "risk": 51.2
+        "risk": 51.1
       },
       "score": 36.6,
       "explanation": "2.7% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +11.5%. Erste Erholungssignale sind erkennbar.",
@@ -25076,7 +25076,7 @@
           "close": 42.19
         }
       ],
-      "updatedAt": "2026-09-26T09:23:38.942887+00:00"
+      "updatedAt": "2026-09-27T10:02:54.724573+00:00"
     },
     {
       "symbol": "BP.LSE",
@@ -25639,18 +25639,18 @@
         "1m": -2.89,
         "3m": 4.03,
         "6m": 6.46,
-        "12m": -9.94
+        "12m": -10.0
       },
       "high52": 110.15,
       "low52": 67.08,
       "belowHigh52Pct": -28.68,
       "aboveLow52Pct": 17.11,
-      "volatilityAnnualized": 30.65,
+      "volatilityAnnualized": 30.71,
       "components": {
         "underperformance": 47.8,
         "recovery": 52.1,
         "recoveryFromLow": 21.4,
-        "risk": 46.0
+        "risk": 46.1
       },
       "score": 35.3,
       "explanation": "28.7% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +4.0%. Erste Erholungssignale sind erkennbar.",
@@ -26176,7 +26176,7 @@
           "close": 78.56
         }
       ],
-      "updatedAt": "2026-09-26T09:23:37.787029+00:00"
+      "updatedAt": "2026-09-27T10:02:53.767000+00:00"
     },
     {
       "symbol": "NVDA.US",
@@ -31689,18 +31689,18 @@
         "1m": -3.4,
         "3m": -5.66,
         "6m": -24.23,
-        "12m": -31.27
+        "12m": -31.12
       },
       "high52": 97.92,
       "low52": 55.32,
       "belowHigh52Pct": -43.1,
       "aboveLow52Pct": 0.72,
-      "volatilityAnnualized": 28.93,
+      "volatilityAnnualized": 28.99,
       "components": {
         "underperformance": 71.8,
         "recovery": 26.8,
         "recoveryFromLow": 0.9,
-        "risk": 43.4
+        "risk": 43.5
       },
       "score": 32.2,
       "explanation": "43.1% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung -5.7%. Ein belastbares Erholungssignal fehlt noch.",
@@ -32226,7 +32226,7 @@
           "close": 55.72
         }
       ],
-      "updatedAt": "2026-09-26T09:23:38.408328+00:00"
+      "updatedAt": "2026-09-27T10:02:54.262695+00:00"
     },
     {
       "symbol": "MC.PA",
@@ -38289,13 +38289,13 @@
         "1m": -1.05,
         "3m": 6.85,
         "6m": 2.25,
-        "12m": -0.97
+        "12m": -1.73
       },
       "high52": 575.6,
       "low52": 437.4,
       "belowHigh52Pct": -11.33,
       "aboveLow52Pct": 16.69,
-      "volatilityAnnualized": 19.59,
+      "volatilityAnnualized": 19.61,
       "components": {
         "underperformance": 18.9,
         "recovery": 56.7,
@@ -38826,7 +38826,7 @@
           "close": 510.4
         }
       ],
-      "updatedAt": "2026-09-26T09:23:45.204984+00:00"
+      "updatedAt": "2026-09-27T10:02:59.919576+00:00"
     },
     {
       "symbol": "QCOM.US",
@@ -39939,18 +39939,18 @@
         "1m": -3.43,
         "3m": -0.08,
         "6m": 14.11,
-        "12m": 10.57
+        "12m": 10.66
       },
       "high52": 84.2,
       "low52": 61.28,
       "belowHigh52Pct": -12.42,
       "aboveLow52Pct": 20.33,
-      "volatilityAnnualized": 19.69,
+      "volatilityAnnualized": 19.73,
       "components": {
         "underperformance": 20.7,
         "recovery": 50.1,
         "recoveryFromLow": 25.4,
-        "risk": 29.5
+        "risk": 29.6
       },
       "score": 27.0,
       "explanation": "12.4% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung -0.1%. Ein belastbares Erholungssignal fehlt noch.",
@@ -40476,7 +40476,7 @@
           "close": 73.74
         }
       ],
-      "updatedAt": "2026-09-26T09:23:43.088592+00:00"
+      "updatedAt": "2026-09-27T10:02:58.026527+00:00"
     },
     {
       "symbol": "MRK.XETRA",
@@ -40489,18 +40489,18 @@
         "1m": -2.63,
         "3m": -7.31,
         "6m": 31.09,
-        "12m": 29.18
+        "12m": 28.34
       },
       "high52": 148.8,
       "low52": 100.7,
       "belowHigh52Pct": -9.27,
       "aboveLow52Pct": 34.06,
-      "volatilityAnnualized": 28.96,
+      "volatilityAnnualized": 29.01,
       "components": {
         "underperformance": 15.5,
         "recovery": 51.2,
         "recoveryFromLow": 42.6,
-        "risk": 43.4
+        "risk": 43.5
       },
       "score": 26.5,
       "explanation": "9.3% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung -7.3%. Ein belastbares Erholungssignal fehlt noch.",
@@ -41026,7 +41026,7 @@
           "close": 135.0
         }
       ],
-      "updatedAt": "2026-09-26T09:23:44.669272+00:00"
+      "updatedAt": "2026-09-27T10:02:59.469818+00:00"
     },
     {
       "symbol": "ALV.XETRA",
@@ -41039,18 +41039,18 @@
         "1m": -6.24,
         "3m": 3.82,
         "6m": 26.24,
-        "12m": 23.71
+        "12m": 24.3
       },
       "high52": 454.6,
       "low52": 338.8,
       "belowHigh52Pct": -6.84,
       "aboveLow52Pct": 25.0,
-      "volatilityAnnualized": 18.29,
+      "volatilityAnnualized": 18.32,
       "components": {
         "underperformance": 11.4,
         "recovery": 54.8,
         "recoveryFromLow": 31.2,
-        "risk": 27.4
+        "risk": 27.5
       },
       "score": 26.4,
       "explanation": "6.8% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +3.8%. Erste Erholungssignale sind erkennbar.",
@@ -41576,7 +41576,7 @@
           "close": 423.5
         }
       ],
-      "updatedAt": "2026-09-26T09:23:35.806762+00:00"
+      "updatedAt": "2026-09-27T10:02:52.368981+00:00"
     },
     {
       "symbol": "BA.US",
@@ -42139,13 +42139,13 @@
         "1m": -7.52,
         "3m": -4.73,
         "6m": -14.42,
-        "12m": -17.14
+        "12m": -18.01
       },
       "high52": 62.34,
       "low52": 41.0,
       "belowHigh52Pct": -33.77,
       "aboveLow52Pct": 0.7,
-      "volatilityAnnualized": 25.65,
+      "volatilityAnnualized": 25.68,
       "components": {
         "underperformance": 56.3,
         "recovery": 24.8,
@@ -42676,7 +42676,7 @@
           "close": 41.285
         }
       ],
-      "updatedAt": "2026-09-26T09:23:44.143057+00:00"
+      "updatedAt": "2026-09-27T10:02:58.989854+00:00"
     },
     {
       "symbol": "CON.XETRA",
@@ -42689,20 +42689,20 @@
         "1m": -1.82,
         "3m": -4.85,
         "6m": 20.43,
-        "12m": 26.64
+        "12m": 27.99
       },
       "high52": 77.5,
       "low52": 53.1,
       "belowHigh52Pct": -10.97,
       "aboveLow52Pct": 29.94,
-      "volatilityAnnualized": 32.11,
+      "volatilityAnnualized": 32.15,
       "components": {
         "underperformance": 18.3,
         "recovery": 50.6,
         "recoveryFromLow": 37.4,
         "risk": 48.2
       },
-      "score": 25.5,
+      "score": 25.4,
       "explanation": "11.0% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung -4.9%. Ein belastbares Erholungssignal fehlt noch.",
       "chart": [
         {
@@ -43226,7 +43226,7 @@
           "close": 69.0
         }
       ],
-      "updatedAt": "2026-09-26T09:23:39.472744+00:00"
+      "updatedAt": "2026-09-27T10:02:55.230354+00:00"
     },
     {
       "symbol": "ROG.SW",
@@ -43789,13 +43789,13 @@
         "1m": -6.58,
         "3m": 0.32,
         "6m": 22.16,
-        "12m": 0.21
+        "12m": 0.06
       },
       "high52": 221.25,
       "low52": 157.48,
       "belowHigh52Pct": -12.98,
       "aboveLow52Pct": 22.26,
-      "volatilityAnnualized": 29.17,
+      "volatilityAnnualized": 29.23,
       "components": {
         "underperformance": 21.6,
         "recovery": 48.5,
@@ -44326,7 +44326,7 @@
           "close": 192.54
         }
       ],
-      "updatedAt": "2026-09-26T09:23:35.192291+00:00"
+      "updatedAt": "2026-09-27T10:02:51.882932+00:00"
     },
     {
       "symbol": "SAN.PA",
@@ -45439,18 +45439,18 @@
         "1m": -6.67,
         "3m": 2.86,
         "6m": -12.04,
-        "12m": -2.7
+        "12m": -3.14
       },
       "high52": 34.36,
       "low52": 23.53,
       "belowHigh52Pct": -21.42,
       "aboveLow52Pct": 14.75,
-      "volatilityAnnualized": 26.81,
+      "volatilityAnnualized": 26.86,
       "components": {
         "underperformance": 35.7,
         "recovery": 35.7,
         "recoveryFromLow": 18.4,
-        "risk": 40.2
+        "risk": 40.3
       },
       "score": 24.7,
       "explanation": "21.4% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +2.9%. Erste Erholungssignale sind erkennbar.",
@@ -45976,7 +45976,7 @@
           "close": 27.0
         }
       ],
-      "updatedAt": "2026-09-26T09:23:40.714271+00:00"
+      "updatedAt": "2026-09-27T10:02:56.191728+00:00"
     },
     {
       "symbol": "DIS.US",
@@ -47089,20 +47089,20 @@
         "1m": -2.63,
         "3m": 5.57,
         "6m": 1.08,
-        "12m": 23.94
+        "12m": 23.65
       },
       "high52": 55.05,
       "low52": 41.48,
       "belowHigh52Pct": -8.41,
       "aboveLow52Pct": 21.55,
-      "volatilityAnnualized": 24.93,
+      "volatilityAnnualized": 24.98,
       "components": {
         "underperformance": 14.0,
         "recovery": 51.9,
         "recoveryFromLow": 26.9,
-        "risk": 37.4
+        "risk": 37.5
       },
-      "score": 23.8,
+      "score": 23.7,
       "explanation": "8.4% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung +5.6%. Erste Erholungssignale sind erkennbar.",
       "chart": [
         {
@@ -47626,7 +47626,7 @@
           "close": 50.42
         }
       ],
-      "updatedAt": "2026-09-26T09:23:36.509124+00:00"
+      "updatedAt": "2026-09-27T10:02:52.840045+00:00"
     },
     {
       "symbol": "OR.PA",
@@ -48739,18 +48739,18 @@
         "1m": -2.79,
         "3m": -19.37,
         "6m": 13.02,
-        "12m": -17.22
+        "12m": -17.59
       },
       "high52": 196.4,
       "low52": 129.95,
       "belowHigh52Pct": -25.41,
       "aboveLow52Pct": 12.74,
-      "volatilityAnnualized": 33.64,
+      "volatilityAnnualized": 33.7,
       "components": {
         "underperformance": 42.3,
         "recovery": 29.5,
         "recoveryFromLow": 15.9,
-        "risk": 50.5
+        "risk": 50.6
       },
       "score": 22.8,
       "explanation": "25.4% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung -19.4%. Ein belastbares Erholungssignal fehlt noch.",
@@ -49276,7 +49276,7 @@
           "close": 146.5
         }
       ],
-      "updatedAt": "2026-09-26T09:23:34.578222+00:00"
+      "updatedAt": "2026-09-27T10:02:51.406054+00:00"
     },
     {
       "symbol": "LOW.US",
@@ -50939,13 +50939,13 @@
         "1m": -3.91,
         "3m": -4.63,
         "6m": -4.53,
-        "12m": 10.28
+        "12m": 10.63
       },
       "high52": 20.39,
       "low52": 14.98,
       "belowHigh52Pct": -15.72,
       "aboveLow52Pct": 14.72,
-      "volatilityAnnualized": 22.26,
+      "volatilityAnnualized": 22.3,
       "components": {
         "underperformance": 26.2,
         "recovery": 35.8,
@@ -51476,7 +51476,7 @@
           "close": 17.185
         }
       ],
-      "updatedAt": "2026-09-26T09:23:41.241957+00:00"
+      "updatedAt": "2026-09-27T10:02:56.666826+00:00"
     },
     {
       "symbol": "MCD.US",
@@ -53139,20 +53139,20 @@
         "1m": -15.64,
         "3m": -21.91,
         "6m": -17.41,
-        "12m": -24.85
+        "12m": -22.2
       },
       "high52": 241.8,
       "low52": 142.55,
       "belowHigh52Pct": -40.45,
       "aboveLow52Pct": 1.02,
-      "volatilityAnnualized": 36.86,
+      "volatilityAnnualized": 36.78,
       "components": {
         "underperformance": 67.4,
         "recovery": 0,
         "recoveryFromLow": 1.3,
-        "risk": 55.3
+        "risk": 55.2
       },
-      "score": 18.6,
+      "score": 18.7,
       "explanation": "40.4% unter dem 52‑Wochen-Hoch; 3‑Monats-Entwicklung -21.9%. Ein belastbares Erholungssignal fehlt noch.",
       "chart": [
         {
@@ -53676,7 +53676,7 @@
           "close": 144.0
         }
       ],
-      "updatedAt": "2026-09-26T09:23:42.551286+00:00"
+      "updatedAt": "2026-09-27T10:02:57.573763+00:00"
     },
     {
       "symbol": "TSLA.US",
